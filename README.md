@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Priyanka (Ri for short) 👋
 
+**🚀 Machine Learning Enthusiast** - I'm fascinated by the potential of ML to solve complex problems and make a positive impact! Fueled by this passion, I'm actively contributing to GirlScript Summer of Code 2024 (GSSoC'24).
+
+**🐍 Python Proficient** - I'm skilled at using Python for various tasks and always eager to explore its capabilities further.
+
+**⭐️ Continuous Learner** - Never a dull moment in the world of code! Currently, I'm diving deeper into new programming challenges to expand my horizons.
+
+**Let's connect!** - Open to collaboration, discussions, and all things code-related. Feel free to reach out!
 <!--
 **priyankaangane/priyankaangane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
