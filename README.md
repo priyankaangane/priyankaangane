@@ -1,6 +1,6 @@
 ## Hi there, I'm Priyanka (Ri for short) 👋
 
-**🚀 Machine Learning Enthusiast** - I'm fascinated by the potential of ML to solve complex problems and make a positive impact! Fueled by this passion, I'm actively contributing to GirlScript Summer of Code 2024 (GSSoC'24).
+**🚀 AI Enthusiast – I'm fascinated by the potential of Artificial Intelligence to solve complex problems and create meaningful impact. Driven by this passion, I'm continuously learning, building projects, and strengthening my skills in AI, Machine Learning.
 
 **🐍 Python Proficient** - I'm skilled at using Python for various tasks and always eager to explore its capabilities further.
 
